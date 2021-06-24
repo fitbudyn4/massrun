@@ -1,0 +1,17 @@
+.info{
+    border-radius: 25px;
+    background-color: rgba(65, 121, 89, 0.616);
+    margin-top: 23px;
+    width:fit-content;
+    height: auto;
+    padding-top: 50px;
+    border: 4px solid rgb(34, 34, 34);
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    color:rgb(255, 255, 255);
+}

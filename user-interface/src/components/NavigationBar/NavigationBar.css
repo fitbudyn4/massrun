@@ -1,0 +1,15 @@
+.nav-text{
+
+    padding-bottom: 12px;
+    padding-left: 12px;
+    list-style: none;
+
+} 
+
+.buttonLogOut
+{
+    position:fixed; 
+    top: 0 auto; 
+    right: 20px; 
+}
+
